@@ -1,0 +1,1 @@
+# docker-swagger2markup
